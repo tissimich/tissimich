@@ -10,8 +10,7 @@ I am a data scientist with experience in machine learning, data analysis, and vi
 
 📍 Live in Brazil  
 💻 Love tech and programming  
-🌱 I'm on track to learning more about Artificial Intelligence and Computer Vision  
-💼 I'm currently looking for a position #opentowork  
+🌱 I'm on track to learning more about Artificial Intelligence and Computer Vision 
 ✈️ Love to travel and meet new people and cultures  
 ⏳  To balance, in my free time, I do primitive stuff like macrame and grow my organic garden as my hobbies  
 
